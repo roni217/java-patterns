@@ -5,7 +5,7 @@ Estudo de java e alguns padrões.
 
 ###  java
 ( ) Collections
-( ) Logging 
+(X) Logging 
 ( ) Formatação / Parsing / Regex
 ( ) Inner class
 ( ) Concorrência / Threads
