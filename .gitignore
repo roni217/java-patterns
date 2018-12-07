@@ -2,7 +2,6 @@ target
 .metadata
 .settings
 .classpath
-.project
 *.class
 # Package Files #
 *.jar
@@ -11,3 +10,4 @@ target
 .idea
 *.iml
 *.swp
+/bin/
