@@ -3,6 +3,9 @@ package adapter;
 public class App {
 
 	public static void main(String[] args) {
-		System.out.println("sdsdd");
+		TomadaDeTresPinos t3 = new TomadaDeTresPinos();
+     
+		AdapterTomada a = new AdapterTomada(t3);
+		a.ligarNaTomadaDeDoisPinos();
 	}
 }
