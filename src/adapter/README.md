@@ -4,9 +4,9 @@ O Padrão Adapter é utilizado quando temos uma classe existente cuja interface nã
 
 No exemplo vemos o cliente fazendo uma chamada para uma tomada de dois pinos, mas na realidade esta chamada está sendo adaptada para uma tomada de três pinos.
 
-##Vantagens de Usar o Padrão Adapter
+## Vantagens de Usar o Padrão Adapter
 
 O Padrão Adapter possui diversas boas práticas de programação orientada a objetos como o uso da composição de objetos, vinculação do cliente a uma interface e não a uma implementação e flexibilidade com o uso de diversos adaptadores.
 
-##Bibliografia
+## Bibliografia
 https://www.devmedia.com.br/padrao-de-projeto-adapter-em-java/26467
